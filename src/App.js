@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import BotCollection from './BotCollection';
-import BotArmy from './BotArmy';
-import BotDetails from './BotDetails';
+//import BotArmy from './BotArmy';
+//import BotDetails from './BotDetails';
 import './App.css';
 
 function App() {
@@ -48,9 +48,9 @@ function App() {
 
   return (
     <div className="App">
-      <BotArmy army={selectedBots} onBotClick={handleBotClick} onRelease={releaseBot} onDischarge={handleBotDischarge} />
+    {/*<BotArmy army={selectedBots} onBotClick={handleBotClick} onRelease={releaseBot} onDischarge={handleBotDischarge} />
       <BotCollection bots={bots} onBotClick={handleBotClick} />
-      <BotDetails selectedBot={selectedBot} />
+      <BotDetails selectedBot={selectedBot} />*/}
     </div>
   );
 }
