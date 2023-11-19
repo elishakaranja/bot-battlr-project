@@ -48,9 +48,9 @@ function App() {
 
   return (
     <div className="App">
-    {/*<BotArmy army={selectedBots} onBotClick={handleBotClick} onRelease={releaseBot} onDischarge={handleBotDischarge} />
+    <BotArmy army={selectedBots} onBotClick={handleBotClick} onRelease={releaseBot} onDischarge={handleBotDischarge} />
       <BotCollection bots={bots} onBotClick={handleBotClick} />
-      <BotDetails selectedBot={selectedBot} />*/}
+      <BotDetails selectedBot={selectedBot} />
     </div>
   );
 }
