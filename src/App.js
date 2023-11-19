@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import BotCollection from './BotCollection';
-//import BotArmy from './BotArmy';
-//import BotDetails from './BotDetails';
+import BotArmy from './BotArmy';
+import BotDetails from './BotDetails';
 import './App.css';
 
 function App() {
@@ -56,3 +56,4 @@ function App() {
 }
 
 export default App;
+
