@@ -2,7 +2,7 @@ import React from 'react';
 
 function BotDetails({ selectedBot }) {
   if (!selectedBot) {
-    return <div>No bot selected</div>;
+    return <div>selected a bot</div>;
   }
 
   return (
