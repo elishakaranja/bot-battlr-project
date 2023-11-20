@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bot-battlr-project/static/css/main.f855e6bc.css",
+    "main.js": "/bot-battlr-project/static/js/main.7a1835bd.js",
+    "static/js/787.258b6bd4.chunk.js": "/bot-battlr-project/static/js/787.258b6bd4.chunk.js",
+    "index.html": "/bot-battlr-project/index.html",
+    "main.f855e6bc.css.map": "/bot-battlr-project/static/css/main.f855e6bc.css.map",
+    "main.7a1835bd.js.map": "/bot-battlr-project/static/js/main.7a1835bd.js.map",
+    "787.258b6bd4.chunk.js.map": "/bot-battlr-project/static/js/787.258b6bd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7a1835bd.js"
+  ]
+}
